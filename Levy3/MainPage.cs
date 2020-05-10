@@ -17,5 +17,9 @@ namespace Levy3
             InitializeComponent();
         }
 
+        private void menuBar_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }
