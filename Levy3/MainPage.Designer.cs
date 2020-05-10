@@ -34,7 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(958, 551);
+            this.ClientSize = new System.Drawing.Size(958, 657);
             this.Name = "MainPage";
             this.Text = "Levy 3";
             this.ResumeLayout(false);
